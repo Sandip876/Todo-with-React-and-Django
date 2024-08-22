@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "asgiref",
+        "corsheaders",
+        "djangorestframework",
+        "dotenv",
+        "handlesubmit",
+        "jazzmin",
+        "psycopg",
+        "pytz",
+        "simplejwt",
+        "sqlparse"
+    ]
+}
